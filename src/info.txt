@@ -1,0 +1,4 @@
+React is much faster than Vanill JS because of the presence of a Virtual DOM
+Reusable web components
+Maintained by Facebook
+A lot in demand. Very hirable.
